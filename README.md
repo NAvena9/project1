@@ -45,7 +45,9 @@ THEN I am again presented with current and future conditions for that city
 - http://jsfiddle.net/Wkfq5/
 
 ## Credits
+- Sandra Ileana Pérez Álvarez
 - Enrique Del Castillo Chávez
+- Nicolas Cedano Avena
 
 ## Tests
 - Search button working
